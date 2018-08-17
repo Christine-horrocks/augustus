@@ -12,6 +12,7 @@
           "data": {
             "link": "#content",
             "display": {
+              "name": "partials__display",
                 "data": [
                 {
                   "component": "skip-to-content"
@@ -26,6 +27,7 @@
           "name": "status__banner",
           "data": {
             "display": {
+              "name": "partials__display",
                 "data": [
                 {
                   "component": "status",
@@ -60,6 +62,7 @@
           "name": "status__banner",
           "data": {
             "display": {
+              "name": "partials__display",
                 "data": [
                 {
                   "component": "status",
@@ -73,6 +76,7 @@
                 "data": {
                   "type": "ul",
                   "display": {
+                    "name": "partials__display",
                       "data": [
                       {
                         "component": "list",
@@ -102,6 +106,7 @@
                     "data": {
                       "link": "/",
                       "display": {
+                        "name": "partials__display",
                           "data": [
                           {
                             "component": "uk_parliament"
@@ -160,6 +165,7 @@
                   "data": {
                     "type": "ul",
                     "display": {
+                      "name": "partials__display",
                       "data": [
                         {
                           "component": "list"
