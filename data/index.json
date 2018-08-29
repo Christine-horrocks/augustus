@@ -197,47 +197,87 @@
               },
               "components": [
                 {
-                  "name": "card__general__card-1",
+                  "name": "card__generic",
                   "data": {
-                    "heading-size": 3,
-                    "heading-text": "home.mps-heading",
-                    "url": "/mps",
-                    "paragraphs": [
-                      "home.find-all-mps"
-                    ]
+                    "heading": {
+                      "name": "heading",
+                      "data": {
+                          "content": ["home.mps-heading"],
+                          "size": 3,
+                          "link": "/mps"
+                      }
+                    },
+                    "paragraph": {
+                      "name": "paragraph",
+                      "data": [
+                        {
+                          "content":"home.find-all-mps"
+                        }
+                      ]
+                    }
                   }
                 },
                 {
-                  "name": "card__general__card-1",
+                  "name": "card__generic",
                   "data": {
-                    "heading-size": 3,
-                    "heading-text": "home.lords-heading",
-                    "url": "/houses/WkUWUBMx/members/current/a-z/a",
-                    "paragraphs": [
-                      "home.find-all-lords"
-                    ]
+                    "heading": {
+                      "name": "heading",
+                      "data": {
+                          "content": ["home.lords-heading"],
+                          "size": 3,
+                          "link": "/houses/WkUWUBMx/members/current/a-z/a"
+                      }
+                    },
+                    "paragraph": {
+                      "name": "paragraph",
+                      "data": [
+                        {
+                          "content":"home.find-all-lords"
+                        }
+                      ]
+                    }
                   }
                 },
                 {
-                  "name": "card__general__card-1",
+                  "name": "card__generic",
                   "data": {
-                    "heading-size": 3,
-                    "heading-text": "home.constituencies-heading",
-                    "url": "/find-your-constituency",
-                    "paragraphs": [
-                      "home.find-mps-by-area"
-                    ]
+                    "heading": {
+                      "name": "heading",
+                      "data": {
+                          "content": ["home.constituencies-heading"],
+                          "size": 3,
+                          "link": "/find-your-constituency"
+                      }
+                    },
+                    "paragraph": {
+                      "name": "paragraph",
+                      "data": [
+                        {
+                          "content":"home.find-mps-by-area"
+                        }
+                      ]
+                    }
                   }
                 },
                 {
-                  "name": "card__general__card-1",
+                  "name": "card__generic",
                   "data": {
-                    "heading-size": 3,
-                    "heading-text": "home.parties-and-groups-heading",
-                    "url": "/houses/1AFu55Hs/parties/current",
-                    "paragraphs": [
-                      "home.find-members-by-party-or-group"
-                    ]
+                    "heading": {
+                      "name": "heading",
+                      "data": {
+                          "content": ["home.parties-and-groups-heading"],
+                          "size": 3,
+                          "link": "/houses/1AFu55Hs/parties/current"
+                      }
+                    },
+                    "paragraph": {
+                      "name": "paragraph",
+                      "data": [
+                        {
+                          "content":"home.find-members-by-party-or-group"
+                        }
+                      ]
+                    }
                   }
                 }
               ]
@@ -271,14 +311,24 @@
               },
               "components": [
                 {
-                  "name": "card__general__card-1",
+                  "name": "card__generic",
                   "data": {
-                    "heading-size": 3,
-                    "heading-text": "home.statutory-instruments",
-                    "url": "/statutory-instruments",
-                    "paragraphs": [
-                      "home.find-all-statutory-instruments"
-                    ]
+                    "heading": {
+                      "name": "heading",
+                      "data": {
+                          "content": ["home.statutory-instruments"],
+                          "size": 3,
+                          "link": "/statutory-instruments"
+                      }
+                    },
+                    "paragraph": {
+                      "name": "paragraph",
+                      "data": [
+                        {
+                          "content":"home.find-all-statutory-instruments"
+                        }
+                      ]
+                    }
                   }
                 }
               ]
@@ -312,14 +362,24 @@
               },
               "components": [
                 {
-                  "name": "card__general__card-1",
+                  "name": "card__generic",
                   "data": {
-                    "heading-size": 3,
-                    "heading-text": "home.guide-to-procedure",
-                    "url": "/collections/6i8XQAfD",
-                    "paragraphs": [
-                      "home.find-guidance"
-                    ]
+                    "heading": {
+                      "name": "heading",
+                      "data": {
+                          "content": ["home.guide-to-procedure"],
+                          "size": 3,
+                          "link": "/collections/6i8XQAfD"
+                      }
+                    },
+                    "paragraph": {
+                      "name": "paragraph",
+                      "data": [
+                        {
+                          "content":"home.find-guidance"
+                        }
+                      ]
+                    }
                   }
                 }
               ]
